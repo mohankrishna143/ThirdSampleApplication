@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doctor Meet</string>
+    <string name="hint_test">Enter User Name <font fgcolor='#FF0000'>*</font></string>
+    <string name="hint_pwd">Enter Password <font fgcolor='#FF0000'>*</font></string>
+    <string name="hint_address">Enter Address</string>
+    <string name="username">UserName</string>
+    <string name="pwd">Enter Password</string>
+    <string name="desc">Enter few points about video</string>
+    <string name="valid_url">Enter Valid Url</string>
+</resources>
